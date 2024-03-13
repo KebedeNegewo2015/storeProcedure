@@ -7,11 +7,11 @@ salary decimal(10,2)
 
 
 insert into employee values
-(1, 'kebe', 'negewo', 85000),
-(2, 'dani', 'hagos', 85000),
-(3, 'anu', 'girma', 10000),
-(4, 'rim', 'girma', 15000),
-(5, 'baby', 'girma', 8000);
+(1, 'mike', 'daniel', 85000),
+(2, 'joen', 'doe', 85000),
+(3, 'jordan', 'samuel', 10000),
+(4, 'alfred', 'david', 15000),
+(5, 'teddy', 'sol', 8000);
 
 
 select * from employee
